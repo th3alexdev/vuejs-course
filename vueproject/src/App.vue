@@ -1,9 +1,9 @@
 <template>
-  <ForDirectives />
+  <BindEventCompositionAPI />
 </template>
 
 <script setup>
-import ForDirectives from './components/2.directives/ForDirectives.vue'
+import BindEventCompositionAPI from './components/3.bind/BindEventCompositionAPI.vue'
 </script>
 
 <style>
